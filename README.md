@@ -10,4 +10,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marceloses}/count.svg" /></p> 
 <br></div>
 
+### Other Knowledge:
+![Azure](https://img.icons8.com/?size=100&id=81727&format=png&color=000000)&nbsp;
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3399ff&height=120&section=footer"/>
