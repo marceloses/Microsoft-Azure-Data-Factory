@@ -1,0 +1,56 @@
+[
+  {
+    "categoriaId": 1,
+    "nome": "Testando",
+    "imagemUrl": "string",
+    "produtos": [
+      {
+        "produtoId": 1,
+        "nome": "Notebook",
+        "descricao": "INFORMATICA",
+        "preco": 10,
+        "imagemUrl": "FOTO.jpg",
+        "estoque": 10,
+        "datacadastro": "2024-08-23T14:59:37.8733333",
+        "categoriaId": 1
+      },
+      {
+        "produtoId": 4,
+        "nome": "Shampoo",
+        "descricao": "Gel Cabelo",
+        "preco": 5,
+        "imagemUrl": "FOTO.jpg",
+        "estoque": 10,
+        "datacadastro": "2024-05-22T00:00:00",
+        "categoriaId": 1
+      },
+      {
+        "produtoId": 12,
+        "nome": "Teste",
+        "descricao": "string",
+        "preco": 0,
+        "imagemUrl": "string",
+        "estoque": 0,
+        "datacadastro": "2025-02-10T22:13:02.601",
+        "categoriaId": 1
+      }
+    ]
+  },
+  {
+    "categoriaId": 2,
+    "nome": "Limpeza",
+    "imagemUrl": "FOTO.jpg",
+    "produtos": [
+      {
+        "produtoId": 5,
+        "nome": "Creme",
+        "descricao": "Dental",
+        "preco": 7,
+        "imagemUrl": "FOTO.jpg",
+        "estoque": 7,
+        "datacadastro": "2024-05-22T00:00:00",
+        "categoriaId": 2
+      }
+    ]
+  }
+]
