@@ -12,6 +12,15 @@ Fonde de dados:
 
 https://raw.githubusercontent.com/marceloses/Microsoft-Azure-Data-Factory/refs/heads/main/vendas.csv
 
+Estrutura da tabela
+Tabela vendas
+
+| Colun Name | Tipo | Descrição |
+| --- | --- | --- |
+| id_venda | int | Identificador da venda |
+| cod_cliente | int | Código venda cliente |
+
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
