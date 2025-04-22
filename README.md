@@ -19,6 +19,28 @@ Tabela vendas
 | --- | --- | --- |
 | id_venda | int | Identificador da venda |
 | cod_cliente | int | Código venda cliente |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
+|             |     |                      |
 
 
 
